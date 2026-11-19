@@ -1,0 +1,368 @@
+drug,smiles,matched_name,source,status,match_type,candidate_count
+(+)-PD 128907 hydrochloride,,,,ambiguous,normalized,2
+(+)-PD 128907 hydrochloride,CCCN1CCOC2C1COC3=C2C=C(C=C3)O,PD-128907,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+(+)-PD 128907 hydrochloride,CCCN1CCOC2C1COC3=C2C=C(C=C3)O.Cl,PD128907 HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ADL5859,,,,ambiguous,normalized,2
+ADL5859,CCN(CC)C(=O)C1=CC=C(C=C1)C2=CC3(CCNCC3)OC4=CC=CC(=C42)O,ADL-5859,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ADL5859,CCN(CC)C(=O)C1=CC=C(C=C1)C2=CC3(CCNCC3)OC4=CC=CC(=C42)O.Cl,ADL5859 HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ANAGRELIDE HYDROCHLORIDE,,,,ambiguous,normalized,2
+ANAGRELIDE HYDROCHLORIDE,C1C2=C(C=CC(=C2Cl)Cl)N=C3N1CC(=O)N3.Cl,ANAGRELIDE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ANAGRELIDE HYDROCHLORIDE,C1C2=C(C=CC(=C2Cl)Cl)N=C3N1CC(=O)N3,Anagrelide,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ANAGRELIDE HYDROCHLORIDE,C1C2=C(C=CC(=C2Cl)Cl)N=C3N1CC(=O)N3,anagrelide,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Alfuzosin Hydrochloride,,,,ambiguous,normalized,2
+Alfuzosin Hydrochloride,CN(CCCNC(=O)C1CCCO1)C2=NC3=CC(=C(C=C3C(=N2)N)OC)OC.Cl,ALFUZOSIN HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Alfuzosin Hydrochloride,CN(CCCNC(=O)C1CCCO1)C2=NC3=CC(=C(C=C3C(=N2)N)OC)OC.Cl,Alfuzosin hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Alfuzosin Hydrochloride,CN(CCCNC(=O)C1CCCO1)C2=NC3=CC(=C(C=C3C(=N2)N)OC)OC,alfuzosin,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Amoxicillin sodium,,,,ambiguous,normalized,2
+Amoxicillin sodium,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C,AMOXICILLIN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Amoxicillin sodium,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)[O-])C.[Na+],AMOXICILLIN SODIUM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Asenapine,,,,ambiguous,normalized,2
+Asenapine,CN1CC2C(C1)C3=C(C=CC(=C3)Cl)OC4=CC=CC=C24,ASENAPINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Asenapine,CN1CC2C(C1)C3=C(C=CC(=C3)Cl)OC4=CC=CC=C24.C(=CC(=O)O)C(=O)O,Asenapine maleate,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+BENAZEPRIL HYDROCHLORIDE,,,,ambiguous,normalized,2
+BENAZEPRIL HYDROCHLORIDE,CCOC(=O)C(CCC1=CC=CC=C1)NC2CCC3=CC=CC=C3N(C2=O)CC(=O)O.Cl,BENAZEPRIL HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+BENAZEPRIL HYDROCHLORIDE,CCOC(=O)C(CCC1=CC=CC=C1)NC2CCC3=CC=CC=C3N(C2=O)CC(=O)O,Benazepril,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+BENAZEPRIL HYDROCHLORIDE,CCOC(=O)C(CCC1=CC=CC=C1)NC2CCC3=CC=CC=C3N(C2=O)CC(=O)O,benazepril,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+BENSERAZIDE HYDROCHLORIDE,,,,ambiguous,normalized,2
+BENSERAZIDE HYDROCHLORIDE,C1=CC(=C(C(=C1CNNC(=O)C(CO)N)O)O)O.Cl,BENSERAZIDE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+BENSERAZIDE HYDROCHLORIDE,C1=CC(=C(C(=C1CNNC(=O)C(CO)N)O)O)O,Benserazide,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+BENSERAZIDE HYDROCHLORIDE,C1=CC(=C(C(=C1CNNC(=O)C(CO)N)O)O)O,benserazide,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+BS-181 HCl,,,,ambiguous,normalized,2
+BS-181 HCl,CC(C)C1=C2N=C(C=C(N2N=C1)NCC3=CC=CC=C3)NCCCCCCN,BS-181,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+BS-181 HCl,CC(C)C1=C2N=C(C=C(N2N=C1)NCC3=CC=CC=C3)NCCCCCCN.Cl,BS-181 HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Bazedoxifene HCl,,,,ambiguous,normalized,2
+Bazedoxifene HCl,CC1=C(N(C2=C1C=C(C=C2)O)CC3=CC=C(C=C3)OCCN4CCCCCC4)C5=CC=C(C=C5)O,BAZEDOXIFENE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Bazedoxifene HCl,CC1=C(N(C2=C1C=C(C=C2)O)CC3=CC=C(C=C3)OCCN4CCCCCC4)C5=CC=C(C=C5)O.Cl,BAZEDOXIFENE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Biperiden hydrochloride,,,,ambiguous,normalized,2
+Biperiden hydrochloride,C1CCN(CC1)CCC(C2CC3CC2C=C3)(C4=CC=CC=C4)O.Cl,BIPERIDEN HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Biperiden hydrochloride,C1CCN(CC1)CCC(C2CC3CC2C=C3)(C4=CC=CC=C4)O,Biperiden,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Biperiden hydrochloride,C1CCN(CC1)CCC(C2CC3CC2C=C3)(C4=CC=CC=C4)O,biperiden,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Bosentan hydrate,,,,ambiguous,normalized,2
+Bosentan hydrate,CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=NC=CC=N3)OCCO)OC4=CC=CC=C4OC,BOSENTAN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Bosentan hydrate,CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=NC=CC=N3)OCCO)OC4=CC=CC=C4OC.O,BOSENTAN HYDRATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Buspirone hydrochloride,,,,ambiguous,normalized,2
+Buspirone hydrochloride,C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4,BUSPIRONE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Buspirone hydrochloride,C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4.Cl,BUSPIRONE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+CGS 21680 hydrochloride,,,,ambiguous,normalized,2
+CGS 21680 hydrochloride,CCNC(=O)C1C(C(C(O1)N2C=NC3=C(N=C(N=C32)NCCC4=CC=C(C=C4)CCC(=O)O)N)O)O.Cl,CGS 21680 HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+CGS 21680 hydrochloride,CCNC(=O)C1C(C(C(O1)N2C=NC3=C(N=C(N=C32)NCCC4=CC=C(C=C4)CCC(=O)O)N)O)O,CGS-21680,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+CGS 21680 hydrochloride,CCNC(=O)C1C(C(C(O1)N2C=NC3=C(N=C(N=C32)NCCC4=CC=C(C=C4)CCC(=O)O)N)O)O,Cgs 21680,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+CLONIDINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+CLONIDINE HYDROCHLORIDE,C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl.Cl,CLONIDINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+CLONIDINE HYDROCHLORIDE,C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl,Clonidine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+CLONIDINE HYDROCHLORIDE,C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl,clonidine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Chlorpheniramine maleate,,,,ambiguous,normalized,2
+Chlorpheniramine maleate,CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2,(-)-chlorpheniramine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Chlorpheniramine maleate,CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2.C(=CC(=O)O)C(=O)O,CHLORPHENIRAMINE MALEATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Cinacalcet,,,,ambiguous,normalized,2
+Cinacalcet,CC(C1=CC=CC2=CC=CC=C21)NCCCC3=CC(=CC=C3)C(F)(F)F,CINACALCET,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Cinacalcet,CC(C1=CC=CC2=CC=CC=C21)NCCCC3=CC(=CC=C3)C(F)(F)F.Cl,CINACALCET HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Cinacalcet hydrochloride,,,,ambiguous,normalized,2
+Cinacalcet hydrochloride,CC(C1=CC=CC2=CC=CC=C21)NCCCC3=CC(=CC=C3)C(F)(F)F,CINACALCET,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Cinacalcet hydrochloride,CC(C1=CC=CC2=CC=CC=C21)NCCCC3=CC(=CC=C3)C(F)(F)F.Cl,CINACALCET HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Clindamycin palmitate HCl,,,,ambiguous,normalized,2
+Clindamycin palmitate HCl,CCCCCCCCCCCCCCCC(=O)OC1C(C(C(OC1SC)C(C(C)Cl)NC(=O)C2CC(CN2C)CCC)O)O.Cl,CLINDAMYCIN PALMITATE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Clindamycin palmitate HCl,CCCCCCCCCCCCCCCC(=O)OC1C(C(C(OC1SC)C(C(C)Cl)NC(=O)C2CC(CN2C)CCC)O)O,Clindamycin palmitate,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Closantel,,,,ambiguous,normalized,2
+Closantel,CC1=CC(=C(C=C1NC(=O)C2=C(C(=CC(=C2)I)I)O)Cl)C(C#N)C3=CC=C(C=C3)Cl,CLOSANTEL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Closantel,CC1=CC(=C(C=C1NC(=O)C2=C(C(=CC(=C2)I)I)[O-])Cl)C(C#N)C3=CC=C(C=C3)Cl.[Na+],CLOSANTEL SODIUM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Closantel sodium,,,,ambiguous,normalized,2
+Closantel sodium,CC1=CC(=C(C=C1NC(=O)C2=C(C(=CC(=C2)I)I)O)Cl)C(C#N)C3=CC=C(C=C3)Cl,CLOSANTEL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Closantel sodium,CC1=CC(=C(C=C1NC(=O)C2=C(C(=CC(=C2)I)I)[O-])Cl)C(C#N)C3=CC=C(C=C3)Cl.[Na+],CLOSANTEL SODIUM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+DIPHENHYDRAMINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+DIPHENHYDRAMINE HYDROCHLORIDE,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2.Cl,DIPHENHYDRAMINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+DIPHENHYDRAMINE HYDROCHLORIDE,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2.Cl,Diphenhydramine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+DIPHENHYDRAMINE HYDROCHLORIDE,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,diphenhydramine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+DULOXETINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+DULOXETINE HYDROCHLORIDE,CNCCC(C1=CC=CS1)OC2=CC=CC3=CC=CC=C32.Cl,DULOXETINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+DULOXETINE HYDROCHLORIDE,CNCCC(C1=CC=CS1)OC2=CC=CC3=CC=CC=C32.Cl,Duloxetine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+DULOXETINE HYDROCHLORIDE,CNCCC(C1=CC=CS1)OC2=CC=CC3=CC=CC=C32,duloxetine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Diclofenac potassium,,,,ambiguous,normalized,2
+Diclofenac potassium,C1=CC=C(C(=C1)CC(=O)[O-])NC2=C(C=CC=C2Cl)Cl.[K+],DICLOFENAC POTASSIUM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Diclofenac potassium,C1=CC=C(C(=C1)CC(=O)[O-])NC2=C(C=CC=C2Cl)Cl.[Na+],DICLOFENAC SODIUM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Diclofenac potassium,C1=CC=C(C(=C1)CC(=O)[O-])NC2=C(C=CC=C2Cl)Cl.[Na+],Diclofenac sodium,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Doripenem hydrate,,,,ambiguous,normalized,2
+Doripenem hydrate,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)CNS(=O)(=O)N)C(=O)O)C(C)O.O,DORIPENEM HYDRATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Doripenem hydrate,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)CNS(=O)(=O)N)C(=O)O)C(C)O,Doripenem,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Doxycycline hydrochloride,,,,ambiguous,normalized,2
+Doxycycline hydrochloride,CC1C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.Cl,DOXYCYCLINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Doxycycline hydrochloride,CC1C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,Doxycycline,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Doxycycline hydrochloride,CC1C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,doxycycline,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Dronedarone,,,,ambiguous,normalized,2
+Dronedarone,CCCCC1=C(C2=C(O1)C=CC(=C2)NS(=O)(=O)C)C(=O)C3=CC=C(C=C3)OCCCN(CCCC)CCCC,DRONEDARONE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Dronedarone,CCCCC1=C(C2=C(O1)C=CC(=C2)NS(=O)(=O)C)C(=O)C3=CC=C(C=C3)OCCCN(CCCC)CCCC.Cl,DRONEDARONE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Dronedarone,CCCCC1=C(C2=C(O1)C=CC(=C2)NS(=O)(=O)C)C(=O)C3=CC=C(C=C3)OCCCN(CCCC)CCCC.Cl,Dronedarone hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+EPZ004777 hydrochloride,,,,ambiguous,normalized,2
+EPZ004777 hydrochloride,CC(C)N(CCCNC(=O)NC1=CC=C(C=C1)C(C)(C)C)CC2C(C(C(O2)N3C=CC4=C(N=CN=C43)N)O)O,EPZ004777,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+EPZ004777 hydrochloride,CC(C)N(CCCNC(=O)NC1=CC=C(C=C1)C(C)(C)C)CC2C(C(C(O2)N3C=CC4=C(N=CN=C43)N)O)O.Cl,EPZ004777 HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Efaproxiral sodium,,,,ambiguous,normalized,2
+Efaproxiral sodium,CC1=CC(=CC(=C1)NC(=O)CC2=CC=C(C=C2)OC(C)(C)C(=O)[O-])C.[Na+],EFAPROXIRAL SODIUM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Efaproxiral sodium,CC1=CC(=CC(=C1)NC(=O)CC2=CC=C(C=C2)OC(C)(C)C(=O)O)C,Efaproxiral,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Entecavir hydrate,,,,ambiguous,normalized,2
+Entecavir hydrate,C=C1C(CC(C1CO)O)N2C=NC3=C2N=C(NC3=O)N.O,ENTECAVIR HYDRATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Entecavir hydrate,C=C1C(CC(C1CO)O)N2C=NC3=C2N=C(NC3=O)N,Entecavir,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Epinephrine hydrochloride,,,,ambiguous,normalized,2
+Epinephrine hydrochloride,CNCC(C1=CC(=C(C=C1)O)O)O,EPINEPHRINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Epinephrine hydrochloride,CNCC(C1=CC(=C(C=C1)O)O)O.Cl,EPINEPHRINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Epinephrine hydrochloride,CNCC(C1=CC(=C(C=C1)O)O)O,Epinephrine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Estramustine phosphate sodium,,,,ambiguous,normalized,2
+Estramustine phosphate sodium,CC12CCC3C(C1CCC2OP(=O)([O-])[O-])CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl.[Na+].[Na+],ESTRAMUSTINE PHOSPHATE SODIUM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Estramustine phosphate sodium,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl,Estramustine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Estramustine phosphate sodium,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl,estramustine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Flavopiridol hydrochloride,,,,ambiguous,normalized,2
+Flavopiridol hydrochloride,CN1CCC(C(C1)O)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=CC=C4Cl)O)O,FLAVOPIRIDOL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Flavopiridol hydrochloride,CN1CC[C@H](c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)[C@H](O)C1,Flavopiridol,drug_info:dname:exact,ambiguous_candidate,normalized,2
+Flavopiridol hydrochloride,CN1CCC(C(C1)O)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=CC=C4Cl)O)O,Flavopiridol,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+GW 441756,,,,ambiguous,normalized,2
+GW 441756,CN1C=C(C2=CC=CC=C21)C=C3C4=C(C=CC=N4)NC3=O,GW-441756,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+GW 441756,CN1C=C(C2=CC=CC=C21)C=C3C4=C(C=CC=N4)NC3=O.Cl,GW441756,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Gabexate mesylate,,,,ambiguous,normalized,2
+Gabexate mesylate,CCOC(=O)C1=CC=C(C=C1)OC(=O)CCCCCN=C(N)N.CS(=O)(=O)O,GABEXATE MESYLATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Gabexate mesylate,CCOC(=O)C1=CC=C(C=C1)OC(=O)CCCCCN=C(N)N,gabexate,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Granisetron HCl,,,,ambiguous,normalized,2
+Granisetron HCl,CN1C2CCCC1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C.Cl,GRANISETRON HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Granisetron HCl,CN1C2CCCC1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C.Cl,Granisetron hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Granisetron HCl,CN1C2CCCC1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C,granisetron,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+HYDRALAZINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+HYDRALAZINE HYDROCHLORIDE,C1=CC=C2C(=C1)C=NN=C2NN,HYDRALAZINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+HYDRALAZINE HYDROCHLORIDE,C1=CC=C2C(=C1)C=NN=C2NN.Cl,HYDRALAZINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Icotinib,,,,ambiguous,normalized,2
+Icotinib,C#CC1=CC(=CC=C1)NC2=NC=NC3=CC4=C(C=C32)OCCOCCOCCO4,ICOTINIB,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Icotinib,C#CC1=CC(=CC=C1)NC2=NC=NC3=CC4=C(C=C32)OCCOCCOCCO4.Cl,Icotinib Hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Icotinib,C#CC1=CC(=CC=C1)NC2=NC=NC3=CC4=C(C=C32)OCCOCCOCCO4.Cl,Icotinib hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Imipramine hydrochloride,,,,ambiguous,normalized,2
+Imipramine hydrochloride,CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31,IMIPRAMINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Imipramine hydrochloride,CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31.Cl,IMIPRAMINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Irsogladine,,,,ambiguous,normalized,2
+Irsogladine,C1=CC(=C(C=C1Cl)C2=NC(=NC(=N2)N)N)Cl,IRSOGLADINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Irsogladine,C1=CC(=C(C=C1Cl)C2=NC(=NC(=N2)N)N)Cl.C(=CC(=O)O)C(=O)O,Irsogladine maleate,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Irsogladine,C1=CC(=C(C=C1Cl)C2=NC(=NC(=N2)N)N)Cl.C(=CC(=O)O)C(=O)O,irsogladine maleate,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+MEMANTINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+MEMANTINE HYDROCHLORIDE,CC12CC3CC(C1)(CC(C3)(C2)N)C,MEMANTINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+MEMANTINE HYDROCHLORIDE,CC12CC3CC(C1)(CC(C3)(C2)N)C.Cl,MEMANTINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+MEMANTINE HYDROCHLORIDE,CC12CC3CC(C1)(CC(C3)(C2)N)C.Cl,Memantine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Mianserin hydrochloride,,,,ambiguous,normalized,2
+Mianserin hydrochloride,CN1CCN2C(C1)C3=CC=CC=C3CC4=CC=CC=C42.Cl,MIANSERIN HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Mianserin hydrochloride,CN1CCN2C(C1)C3=CC=CC=C3CC4=CC=CC=C42,Mianserin,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Mianserin hydrochloride,CN1CCN2C(C1)C3=CC=CC=C3CC4=CC=CC=C42,mianserin,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+NICARDIPINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+NICARDIPINE HYDROCHLORIDE,CC1=C(C(C(=C(N1)C)C(=O)OCCN(C)CC2=CC=CC=C2)C3=CC(=CC=C3)[N+](=O)[O-])C(=O)OC.Cl,NICARDIPINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+NICARDIPINE HYDROCHLORIDE,CC1=C(C(C(=C(N1)C)C(=O)OCCN(C)CC2=CC=CC=C2)C3=CC(=CC=C3)[N+](=O)[O-])C(=O)OC,Nicardipine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Nafamostat mesylate,,,,ambiguous,normalized,2
+Nafamostat mesylate,CS(=O)(=O)O.CS(=O)(=O)O.C1=CC(=CC=C1C(=O)OC2=CC3=C(C=C2)C=C(C=C3)C(=N)N)N=C(N)N,NAFAMOSTAT MESYLATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Nafamostat mesylate,C1=CC(=CC=C1C(=O)OC2=CC3=C(C=C2)C=C(C=C3)C(=N)N)N=C(N)N,Nafamostat,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Nebivolol,,,,ambiguous,normalized,2
+Nebivolol,C1CC2=C(C=CC(=C2)F)OC1C(CNCC(C3CCC4=C(O3)C=CC(=C4)F)O)O,NEBIVOLOL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Nebivolol,C1CC2=C(C=CC(=C2)F)OC1C(CNCC(C3CCC4=C(O3)C=CC(=C4)F)O)O.Cl,Nebivolol hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ONDANSETRON HYDROCHLORIDE,,,,ambiguous,normalized,2
+ONDANSETRON HYDROCHLORIDE,CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C.Cl,ONDANSETRON HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ONDANSETRON HYDROCHLORIDE,CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C,Ondansetron,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ONDANSETRON HYDROCHLORIDE,CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C,ondansetron,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+PHENFORMIN HYDROCHLORIDE,,,,ambiguous,normalized,2
+PHENFORMIN HYDROCHLORIDE,C1=CC=C(C=C1)CCN=C(N)N=C(N)N,PHENFORMIN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+PHENFORMIN HYDROCHLORIDE,C1=CC=C(C=C1)CCN=C(N)N=C(N)N.Cl,PHENFORMIN HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+PHENFORMIN HYDROCHLORIDE,C1=CC=C(C=C1)CCN=C(N)N=C(N)N.Cl,Phenformin hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+PHENYLEPHRINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+PHENYLEPHRINE HYDROCHLORIDE,CNCC(C1=CC(=CC=C1)O)O.Cl,PHENYLEPHRINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+PHENYLEPHRINE HYDROCHLORIDE,CNCC(C1=CC(=CC=C1)O)O.Cl,Phenylephrine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+PHENYLEPHRINE HYDROCHLORIDE,CNCC(C1=CC(=CC=C1)O)O,phenylephrine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+PROPAFENONE HYDROCHLORIDE,,,,ambiguous,normalized,2
+PROPAFENONE HYDROCHLORIDE,CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O.Cl,PROPAFENONE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+PROPAFENONE HYDROCHLORIDE,CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O.Cl,Propafenone hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+PROPAFENONE HYDROCHLORIDE,CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O,propafenone,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Paroxetine hydrochloride,,,,ambiguous,normalized,2
+Paroxetine hydrochloride,C1CNCC(C1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4.Cl,PAROXETINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Paroxetine hydrochloride,C1CNCC(C1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4,Paroxetine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Pefloxacin mesylate,,,,ambiguous,normalized,2
+Pefloxacin mesylate,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCN(CC3)C)F)C(=O)O.CS(=O)(=O)O,PEFLOXACIN MESYLATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Pefloxacin mesylate,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCN(CC3)C)F)C(=O)O,Pefloxacin,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Phentolamine mesylate,,,,ambiguous,normalized,2
+Phentolamine mesylate,CC1=CC=C(C=C1)N(CC2=NCCN2)C3=CC(=CC=C3)O.CS(=O)(=O)O,PHENTOLAMINE MESYLATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Phentolamine mesylate,CC1=CC=C(C=C1)N(CC2=NCCN2)C3=CC(=CC=C3)O,phentolamine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Proparacaine hydrochloride,,,,ambiguous,normalized,2
+Proparacaine hydrochloride,CCCOC1=C(C=C(C=C1)C(=O)OCCN(CC)CC)N.Cl,PROPARACAINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Proparacaine hydrochloride,CCCOC1=C(C=C(C=C1)C(=O)OCCN(CC)CC)N,Proparacaine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Proparacaine hydrochloride,CCCOC1=C(C=C(C=C1)C(=O)OCCN(CC)CC)N,proparacaine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+SARAFLOXACIN HYDROCHLORIDE,,,,ambiguous,normalized,2
+SARAFLOXACIN HYDROCHLORIDE,C1CN(CCN1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4=CC=C(C=C4)F)F.Cl,SARAFLOXACIN HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+SARAFLOXACIN HYDROCHLORIDE,C1CN(CCN1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4=CC=C(C=C4)F)F,Sarafloxacin,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+SARAFLOXACIN HYDROCHLORIDE,C1CN(CCN1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4=CC=C(C=C4)F)F.Cl,Sarafloxacin hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Safinamide mesylate,,,,ambiguous,normalized,2
+Safinamide mesylate,CC(C(=O)N)NCC1=CC=C(C=C1)OCC2=CC(=CC=C2)F.CS(=O)(=O)O,SAFINAMIDE MESYLATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Safinamide mesylate,CC(C(=O)N)NCC1=CC=C(C=C1)OCC2=CC(=CC=C2)F,Safinamide,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Scopine hydrochloride,,,,ambiguous,normalized,2
+Scopine hydrochloride,CN1C2CC(CC1C3C2O3)O,SCOPINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Scopine hydrochloride,CN1C2CC(CC1C3C2O3)O.Cl,SCOPINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Scopine hydrochloride,CN1C2CC(CC1C3C2O3)O,Scopine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Synephrine hydrochloride,,,,ambiguous,normalized,2
+Synephrine hydrochloride,CNCC(C1=CC=C(C=C1)O)O,SYNEPHRINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Synephrine hydrochloride,CNCC(C1=CC=C(C=C1)O)O.Cl,SYNEPHRINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Synephrine hydrochloride,CNCC(C1=CC=C(C=C1)O)O,Synephrine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+TETRACYCLINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+TETRACYCLINE HYDROCHLORIDE,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,TETRACYCLINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+TETRACYCLINE HYDROCHLORIDE,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.Cl,TETRACYCLINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+TETRACYCLINE HYDROCHLORIDE,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.Cl,Tetracycline hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+TICLOPIDINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+TICLOPIDINE HYDROCHLORIDE,C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl.Cl,TICLOPIDINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+TICLOPIDINE HYDROCHLORIDE,C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl.Cl,Ticlopidine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+TICLOPIDINE HYDROCHLORIDE,C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl,ticlopidine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Tacrine,,,,ambiguous,normalized,2
+Tacrine,C1CCC2=NC3=CC=CC=C3C(=C2C1)N,TACRINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Tacrine,C1CCC2=NC3=CC=CC=C3C(=C2C1)N.Cl,TACRINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Tacrine,C1CCC2=NC3=CC=CC=C3C(=C2C1)N.Cl,Tacrine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Tiotropium bromide hydrate,,,,ambiguous,normalized,2
+Tiotropium bromide hydrate,C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(C4=CC=CS4)(C5=CC=CS5)O)C.O.[Br-],TIOTROPIUM BROMIDE HYDRATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Tiotropium bromide hydrate,C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(C4=CC=CS4)(C5=CC=CS5)O)C.[Br-],Tiotropium bromide,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Tolazoline hydrochloride,,,,ambiguous,normalized,2
+Tolazoline hydrochloride,C1CN=C(N1)CC2=CC=CC=C2,TOLAZOLINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Tolazoline hydrochloride,C1CN=C(N1)CC2=CC=CC=C2.Cl,TOLAZOLINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Tubastatin A HCl,,,,ambiguous,normalized,2
+Tubastatin A HCl,CN1CCC2=C(C1)C3=CC=CC=C3N2CC4=CC=C(C=C4)C(=O)NO.Cl,TUBASTATIN A HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Tubastatin A HCl,CN1CCC2=C(C1)C3=CC=CC=C3N2CC4=CC=C(C=C4)C(=O)NO,Tubastatin A,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Verapamil hydrochloride,,,,ambiguous,normalized,2
+Verapamil hydrochloride,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC,VERAPAMIL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Verapamil hydrochloride,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC.Cl,VERAPAMIL HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+Verapamil hydrochloride,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC,Verapamil,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+YOHIMBINE HYDROCHLORIDE,,,,ambiguous,normalized,2
+YOHIMBINE HYDROCHLORIDE,COC(=O)C1C(CCC2C1CC3C4=C(CCN3C2)C5=CC=CC=C5N4)O.Cl,YOHIMBINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+YOHIMBINE HYDROCHLORIDE,COC(=O)C1C(CCC2C1CC3C4=C(CCN3C2)C5=CC=CC=C5N4)O,Yohimbine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ZM 39923 hydrochloride,,,,ambiguous,normalized,2
+ZM 39923 hydrochloride,CC(C)N(CCC(=O)C1=CC2=CC=CC=C2C=C1)CC3=CC=CC=C3.Cl,ZM 39923 HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ZM 39923 hydrochloride,CC(C)N(CCC(=O)C1=CC2=CC=CC=C2C=C1)CC3=CC=CC=C3,ZM-39923,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ZM 39923 hydrochloride,CC(C)N(CCC(=O)C1=CC2=CC=CC=C2C=C1)CC3=CC=CC=C3,ZM39923,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+amantadine,,,,ambiguous,normalized,2
+amantadine,C1C2CC3CC1CC(C2)(C3)N,AMANTADINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+amantadine,C1C2CC3CC1CC(C2)(C3)N.Cl,AMANTADINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+amantadine,C1C2CC3CC1CC(C2)(C3)N.Cl,Amantadine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+amorolfine hydrochloride,,,,ambiguous,normalized,2
+amorolfine hydrochloride,CCC(C)(C)C1=CC=C(C=C1)CC(C)CN2CC(OC(C2)C)C,AMOROLFINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+amorolfine hydrochloride,CCC(C)(C)C1=CC=C(C=C1)CC(C)CN2CC(OC(C2)C)C,Amorolfine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+amorolfine hydrochloride,CCC(C)(C)C1=CC=C(C=C1)CC(C)CN2CC(OC(C2)C)C.Cl,Amorolfine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+amoxicillin,,,,ambiguous,normalized,2
+amoxicillin,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C,AMOXICILLIN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+amoxicillin,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)[O-])C.[Na+],AMOXICILLIN SODIUM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+betaxolol,,,,ambiguous,normalized,2
+betaxolol,CC(C)NCC(COC1=CC=C(C=C1)CCOCC2CC2)O,BETAXOLOL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+betaxolol,CC(C)NCC(COC1=CC=C(C=C1)CCOCC2CC2)O,Betaxolol,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+betaxolol,CC(C)NCC(COC1=CC=C(C=C1)CCOCC2CC2)O.Cl,Betaxolol hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+bleomycin,,,,ambiguous,normalized,3
+bleomycin,CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O,BLEOMYCIN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+bleomycin,CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O.OS(=O)(=O)O,BLEOMYCIN SULFATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+bleomycin,Cc1c(N)nc(C(CC(N)=O)NCC(N)C(N)=O)nc1C(=O)NC(C(=O)NC(C)C(O)C(C)C(=O)NC(C(=O)NCCc1nc(-c2nc(C(=O)NCCC[S+](C)C)cs2)cs1)C(C)O)C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(OC(N)=O)C1O)c1cnc[nH]1,Bleomycin sulfate,drug_info:dname:exact,ambiguous_candidate,normalized,3
+bleomycin,CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O.OS(=O)(=O)O,Bleomycin sulfate,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+chloroquine,,,,ambiguous,normalized,2
+chloroquine,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl,CHLOROQUINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+chloroquine,CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12,Chloroquine,drug_info:dname:exact,ambiguous_candidate,normalized,2
+clindamycin,,,,ambiguous,normalized,2
+clindamycin,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl,CLINDAMYCIN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+clindamycin,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl.Cl,CLINDAMYCIN HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+clindamycin,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl,Clindamycin,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+clindamycin,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl.Cl,Clindamycin HCl,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+clindamycin,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl.Cl,Clindamycin hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+cyproheptadine hydrochloride,,,,ambiguous,normalized,2
+cyproheptadine hydrochloride,CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1,CYPROHEPTADINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+cyproheptadine hydrochloride,CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1.Cl,CYPROHEPTADINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+cyproheptadine hydrochloride,CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1.Cl,Cyproheptadine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+cytarabine,,,,ambiguous,normalized,3
+cytarabine,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O,CYTARABINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+cytarabine,Nc1ccn(C2OC(CO)C(O)C2O)c(=O)n1,CYTARABINE HYDROCHLORIDE,drug_info:dname:exact,ambiguous_candidate,normalized,3
+cytarabine,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O.Cl,CYTARABINE HYDROCHLORIDE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+cytarabine,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O,Cytarabine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+dopamine,,,,ambiguous,normalized,2
+dopamine,C1=CC(=C(C=C1CCN)O)O,DOPAMINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+dopamine,C1=CC(=C(C=C1CCN)O)O.Cl,DOPAMINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+dopamine,C1=CC(=C(C=C1CCN)O)O.Cl,Dopamine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+doxorubicin,,,,ambiguous,normalized,3
+doxorubicin,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O,DOXORUBICIN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+doxorubicin,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O.Cl,DOXORUBICIN HYDROCHLORIDE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+doxorubicin,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O,Doxorubicin,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+doxorubicin,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(N)C(O)C(C)O1,Doxorubicin Hydrochloride,drug_info:dname:exact,ambiguous_candidate,normalized,3
+epinephrine,,,,ambiguous,normalized,2
+epinephrine,CNCC(C1=CC(=C(C=C1)O)O)O,EPINEPHRINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+epinephrine,CNCC(C1=CC(=C(C=C1)O)O)O.Cl,EPINEPHRINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+epinephrine,CNCC(C1=CC(=C(C=C1)O)O)O,Epinephrine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+fludarabine phosphate,,,,ambiguous,normalized,3
+fludarabine phosphate,C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)COP(=O)(O)O)O)O)F)N,FLUDARABINE PHOSPHATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+fludarabine phosphate,Nc1nc(F)nc2c1ncn2C1OC(CO)C(O)C1O,Fludarabine,drug_info:dname:exact,ambiguous_candidate,normalized,3
+fludarabine phosphate,C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)CO)O)O)F)N,Fludarabine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+fluvoxamine,,,,ambiguous,normalized,2
+fluvoxamine,COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F,FLUVOXAMINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+fluvoxamine,COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F.C(=CC(=O)O)C(=O)O,FLUVOXAMINE MALEATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+fluvoxamine,COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F,Fluvoxamine,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+hydralazine,,,,ambiguous,normalized,2
+hydralazine,C1=CC=C2C(=C1)C=NN=C2NN,HYDRALAZINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+hydralazine,C1=CC=C2C(=C1)C=NN=C2NN.Cl,HYDRALAZINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+hydroxychloroquine,,,,ambiguous,normalized,2
+hydroxychloroquine,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO,HYDROXYCHLOROQUINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+hydroxychloroquine,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO.OS(=O)(=O)O,HYDROXYCHLOROQUINE SULFATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+hydroxychloroquine,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO.OS(=O)(=O)O,Hydroxychloroquine sulfate,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ipratropium bromide,,,,ambiguous,normalized,2
+ipratropium bromide,CC(C)[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C.[Br-],IPRATROPIUM BROMIDE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ipratropium bromide,CC(C)[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C.O.[Br-],Ipratropium bromide hydrate,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+irinotecan,,,,ambiguous,normalized,2
+irinotecan,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7,IRINOTECAN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+irinotecan,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7,Irinotecan,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+irinotecan,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7.Cl,Irinotecan hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+levamisole,,,,ambiguous,normalized,2
+levamisole,C1CSC2=NC(CN21)C3=CC=CC=C3,LEVAMISOLE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+levamisole,C1CSC2=NC(CN21)C3=CC=CC=C3.Cl,Levamisole hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+loperamide,,,,ambiguous,normalized,2
+loperamide,CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4,LOPERAMIDE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+loperamide,CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4.Cl,LOPERAMIDE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+loperamide,CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4.Cl,Loperamide hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+maprotiline,,,,ambiguous,normalized,2
+maprotiline,CNCCCC12CCC(C3=CC=CC=C31)C4=CC=CC=C24,MAPROTILINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+maprotiline,CNCCCC12CCC(C3=CC=CC=C31)C4=CC=CC=C24.Cl,MAPROTILINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+maprotiline,CNCCCC12CCC(C3=CC=CC=C31)C4=CC=CC=C24.Cl,Maprotiline hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+memantine,,,,ambiguous,normalized,2
+memantine,CC12CC3CC(C1)(CC(C3)(C2)N)C,MEMANTINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+memantine,CC12CC3CC(C1)(CC(C3)(C2)N)C.Cl,MEMANTINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+memantine,CC12CC3CC(C1)(CC(C3)(C2)N)C.Cl,Memantine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+naltrexone,,,,ambiguous,normalized,2
+naltrexone,C1CC1CN2CCC34C5C(=O)CCC3(C2CC6=C4C(=C(C=C6)O)O5)O,NALTREXONE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+naltrexone,C1CC1CN2CCC34C5C(=O)CCC3(C2CC6=C4C(=C(C=C6)O)O5)O.Cl,NALTREXONE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+naltrexone,C1CC1CN2CCC34C5C(=O)CCC3(C2CC6=C4C(=C(C=C6)O)O5)O,Naltrexone,drugcombs:Drug2:exact,ambiguous_candidate,normalized,2
+naltrexone,C1CC1CN2CCC34C5C(=O)CCC3(C2CC6=C4C(=C(C=C6)O)O5)O.Cl,Naltrexone hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+naratriptan,,,,ambiguous,normalized,2
+naratriptan,CNS(=O)(=O)CCC1=CC2=C(C=C1)NC=C2C3CCN(CC3)C,NARATRIPTAN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+naratriptan,CNS(=O)(=O)CCC1=CC2=C(C=C1)NC=C2C3CCN(CC3)C.Cl,Naratriptan hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+oseltamivir,,,,ambiguous,normalized,2
+oseltamivir,CCC(CC)OC1C=C(CC(C1NC(=O)C)N)C(=O)OCC,OSELTAMIVIR,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+oseltamivir,CCC(CC)OC1C=C(CC(C1NC(=O)C)N)C(=O)OCC.OP(=O)(O)O,OSELTAMIVIR PHOSPHATE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+oseltamivir,CCC(CC)OC1C=C(CC(C1NC(=O)C)N)C(=O)OCC.OP(=O)(O)O,Oseltamivir phosphate,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ozagrel,,,,ambiguous,normalized,2
+ozagrel,C1=CC(=CC=C1CN2C=CN=C2)C=CC(=O)O,OZAGREL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ozagrel,C1=CC(=CC=C1CN2C=CN=C2)C=CC(=O)O.Cl,OZAGREL HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ozagrel,C1=CC(=CC=C1CN2C=CN=C2)C=CC(=O)O.Cl,Ozagrel hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ozagrel hydrochloride,,,,ambiguous,normalized,2
+ozagrel hydrochloride,C1=CC(=CC=C1CN2C=CN=C2)C=CC(=O)O,OZAGREL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ozagrel hydrochloride,C1=CC(=CC=C1CN2C=CN=C2)C=CC(=O)O.Cl,OZAGREL HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+ozagrel hydrochloride,C1=CC(=CC=C1CN2C=CN=C2)C=CC(=O)O.Cl,Ozagrel hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+phenytoin,,,,ambiguous,normalized,2
+phenytoin,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,PHENYTOIN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+phenytoin,C1=CC=C(C=C1)C2(C(=O)[N-]C(=O)N2)C3=CC=CC=C3.[Na+],PHENYTOIN SODIUM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+pramipexole,,,,ambiguous,normalized,2
+pramipexole,CCCNC1CCC2=C(C1)SC(=N2)N,PRAMIPEXOLE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+pramipexole,CCCNC1CCC2=C(C1)SC(=N2)N.Cl.Cl,Pramipexole hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+pramiracetam,,,,ambiguous,normalized,2
+pramiracetam,CC(C)N(CCNC(=O)CN1CCCC1=O)C(C)C,PRAMIRACETAM,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+pramiracetam,CC(C)N(CCNC(=O)CN1CCCC1=O)C(C)C.Cl,Pramiracetam hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+terazosin,,,,ambiguous,normalized,3
+terazosin,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC,TERAZOSIN,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+terazosin,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC.Cl,TERAZOSIN HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+terazosin,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC.O.O.Cl,Terazosin hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,3
+terbinafine,,,,ambiguous,normalized,2
+terbinafine,CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21,TERBINAFINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+terbinafine,CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21.Cl,TERBINAFINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+terbinafine,CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21.Cl,Terbinafine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+tetracycline,,,,ambiguous,normalized,2
+tetracycline,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,TETRACYCLINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+tetracycline,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.Cl,TETRACYCLINE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+tetracycline,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.Cl,Tetracycline hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+trazodone,,,,ambiguous,normalized,2
+trazodone,C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl,TRAZODONE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+trazodone,C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl.Cl,TRAZODONE HCL,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+trazodone,C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl.Cl,Trazodone hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+trifluoperazine,,,,ambiguous,normalized,2
+trifluoperazine,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F,TRIFLUOPERAZINE,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
+trifluoperazine,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F.Cl.Cl,Trifluoperazine hydrochloride,drugcombs:Drug1:exact,ambiguous_candidate,normalized,2
